@@ -95,13 +95,13 @@ Python, OpenCV, Machine Learning
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikumarveldurthi&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikumarveldurthi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikumarveldurthi&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manikumarveldurthi&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manikumarveldurthi)
+![GitHub Streak](https://streak-stats.demolab.com?user=Manikumarveldurthi&theme=tokyonight)
 
 ---
 
